@@ -2,7 +2,9 @@
 
 Node.js is quickly taking hold in development shops that traditionally use Ruby, Python, or shell scripts to compile, lint, and distribute front-end assets for their applications. Why? Mainly because it's fast. But it's also easy to configure and share across teams.
 
-Included in this repository are two examples, both using Gulp as the build system of choice. In the conference workshop, I went over the basic example. However, the more advanced (Angular) example is your homework. It's essentially a fork of my [gulp-app-skeleton](http://github.com/originalmachine/gulp-app-skeleton), which encapsulates best practices for developing Angular apps on the MEAN stack.
+Included in this repository are several examples, some using Gulp to build front-end assets, and a few others demonstrating the basic concepts of Node streams.
+
+In the conference workshop, I went over the basic example. However, the more advanced (Angular) example is your homework. It's essentially a fork of my [gulp-app-skeleton](http://github.com/originalmachine/gulp-app-skeleton), which encapsulates best practices for developing Angular apps on the MEAN stack.
 
 ## License
 
