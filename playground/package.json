@@ -1,0 +1,19 @@
+{
+  "name": "stream-playground",
+  "version": "1.0.0",
+  "description": "A basic example of how Streams work in Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nicholaswyoung/cwc-2015.git"
+  },
+  "author": "Nicholas Young <nicholas@nicholaswyoung.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholaswyoung/cwc-2015/issues"
+  },
+  "homepage": "https://github.com/nicholaswyoung/cwc-2015"
+}
