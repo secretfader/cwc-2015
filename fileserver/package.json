@@ -1,0 +1,22 @@
+{
+  "name": "fileserver",
+  "version": "1.0.0",
+  "description": "Piping files to Express.js.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nicholaswyoung/cwc-2015.git"
+  },
+  "author": "Nicholas Young <nicholas@nicholaswyoung.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholaswyoung/cwc-2015/issues"
+  },
+  "homepage": "https://github.com/nicholaswyoung/cwc-2015",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
