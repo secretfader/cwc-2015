@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nicholaswyoung/cwc-2015",
   "dependencies": {
-    "express": "^4.11.2"
+    "express": "^4.11.2",
+    "oppressor": "0.0.1"
   }
 }
